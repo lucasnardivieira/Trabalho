@@ -6,7 +6,7 @@
 //#include <QDebug>
 //#include <QGraphicsScene>
 //#include <QList>
-
+//teste
 Disparo::Disparo(Game *g)
 {
     game = g;
